@@ -52,12 +52,12 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Junhyun Park',
+    title: 'Portfolio of Robert Sullivan III',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'junhyun-park-7164532b3',
+    linkedin: 'robert-sullivan-iii-829141230',
     x: '',
     mastodon: '',
     researchGate: '',
@@ -76,7 +76,7 @@ const CONFIG = {
     telegram: '',
     website: '',
     phone: '',
-    email: '2junhyunpark@gmail.com',
+    email: '',
   },
   resume: {
     fileUrl:
@@ -87,7 +87,8 @@ const CONFIG = {
     'HTML',
     'CSS',
     'JavaScript',
-    'Java'
+    'Java',
+    
   ],
   experiences: [
     {
@@ -156,7 +157,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'synthwave',
+    defaultTheme: 'cyberpunk',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
